@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/talent.jpeg",
+      "title": "Talent",
+      "description": "We deliver comprehensive solutions covering every stage of the employee lifecycle, from seamless onboarding to strategic exit processes, tailored to meet unique organizational needs."
+    },
+    {
+      "id": "2",
+      "src": "./img/transformation.jpeg",
+      "title": "Transformation",
+      "description": "Our services include Growth Consulting & Execution, Digital Branding & Transformation, Online Reputation Management, and crafting data-driven strategies based on in-depth Market Research and Analysis to empower businesses to thrive."
+    },
+    {
+      "id": "3",
+      "src": "./img/technology.jpeg",
+      "title": "Technology",
+      "description": "We specialize in Technology Consulting, Web Development, Application Development, and end-to-end implementation services. Additionally, we provide expert Training & Mentorship programs to upskill teams and drive innovation."
+    },
+    {
+      "id": "4",
+      "src": "./img/training.jpeg",
+      "title": "Training",
+      "description": "Comprehensive training solutions designed to empower individuals and teams with cutting-edge skills, including technical expertise, leadership development, and continuous learning programs tailored for future-ready organizations."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/erp.jpeg",
+      "title": "Erp System",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/ecom.jpeg",
+      "title": "Ecommerce System",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Easy Rentn",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
